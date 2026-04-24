@@ -8,3 +8,4 @@ for (int i = 0; i < num; i++){
     soma += num;
 }
 Console.WriteLine($"Soma dos números antecessores ao digitado: {soma}");
+Console.WriteLine("Carlos Daniel");
